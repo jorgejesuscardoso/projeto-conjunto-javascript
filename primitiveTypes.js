@@ -36,3 +36,7 @@ console.log(typeof number); // number
 // console.log(typeof nullValue); // object
 // console.log(typeof undefinedValue); // undefined
 // console.log(typeof object); // object
+
+for (const key in object) {
+    console.log(key);
+}
