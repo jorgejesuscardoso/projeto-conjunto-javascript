@@ -17,12 +17,14 @@ Este repositório foi criado para ajudar no processo de aprendizagem de JavaScri
     ```sh
     git clone https://github.com/seuusuario/nome-do-repo.git
     ```
+
   - Explore os arquivos e tente resolver os exercícios.
   - Sempre que houver atualizações, rode:
 
     ```sh
-      git pull origin main
+    git pull origin main
     ```
+
   - Dúvidas ou sugestões? Abra uma issue ou envie um pull request!
 
 🎯 Bora codar e evoluir juntos! 🚀
