@@ -20,9 +20,9 @@ Este repositório foi criado para ajudar no processo de aprendizagem de JavaScri
   - Explore os arquivos e tente resolver os exercícios.
   - Sempre que houver atualizações, rode:
 
-  ```sh
-    git pull origin main
-  ```
+    ```sh
+      git pull origin main
+    ```
   - Dúvidas ou sugestões? Abra uma issue ou envie um pull request!
 
 🎯 Bora codar e evoluir juntos! 🚀
