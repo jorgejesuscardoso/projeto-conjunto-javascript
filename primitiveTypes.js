@@ -21,6 +21,15 @@ const object2 = {
     keyObject: { key: 'value' }
  };
 
+ const arrayObject2 = [
+    { chave1: 'Valor da chave 1' },
+    { chave2: 'Valor da chave 2' },
+    { chave3: 'Valor da chave 3' },
+    { chave4: 'Valor da chave 4' },
+    { chave5: 'Valor da chave 5' },
+    { chave6: 'Valor da chave 6' }
+];
+
 console.log(typeof number); // number
 // console.log(typeof string); // string
 // console.log(typeof boolean); // boolean
